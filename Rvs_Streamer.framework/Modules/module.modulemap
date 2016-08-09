@@ -1,0 +1,6 @@
+framework module Rvs_Streamer {
+  umbrella header "Rvs_Streamer.h"
+
+  export *
+  module * { export * }
+}
